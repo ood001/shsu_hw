@@ -1,9 +1,2 @@
-This is my Designed website link:
-
-According to your video instruction I am now adding
-a link with my student user name as you demostrated your SHSU username with SHSU web address:
-
-http://www.shsu.edu/ood001
-
-
-
+New Link to my website design:
+https://ood001.github.io/shsu_hw/
